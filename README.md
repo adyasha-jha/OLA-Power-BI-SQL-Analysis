@@ -334,14 +334,6 @@ This project includes an `Ola DA Project SQL.sql` file containing all the SQL qu
 
 This file simplifies setting up the project and ensures all queries and views are executed in a single step.
 
-## File Details 📁
-
-- **File Name**: `Ola DA Project SQL.sql` [Download File](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Ola%20DA%20Project%20SQL.sql)
-- **Size**: `4 KB`
-
-- **File Name**: `Bookings.csv` [Download File](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Bookings.csv)
-- **Size**: `15.5 MB`
-
 </details>
 
 ---
@@ -515,4 +507,5 @@ For any queries or feedback, feel free to reach out:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalgopalpoojary/)  
 [![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prajwalgpa)
+
 
