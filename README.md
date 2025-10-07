@@ -115,7 +115,7 @@ WHERE Booking_Status = 'Success';
 SELECT * FROM Successful_Bookings;
 ```
 
-![Description of the screenshot](https://github.com/adyasha-jha/OLA-Power-BI-SQL-Analysis/blob/main/Screenshot%202024-12-15%20062720.png)
+![Description of the screenshot](https://github.com/adyasha-jha/OLA-Power-BI-SQL-Analysis/blob/main/Screenshot%202024-12-16%20062720.png)
 
 ---
 
@@ -136,7 +136,7 @@ GROUP BY Vehicle_Type;
 SELECT * FROM ride_distance_for_each_vehicle;
 ```
 
-![Description of the screenshot](https://github.com/adyasha-jha/OLA-Power-BI-SQL-Analysis/blob/main/Screenshot%202024-12-15%20063354.png)
+![Description of the screenshot](https://github.com/adyasha-jha/OLA-Power-BI-SQL-Analysis/blob/main/Screenshot%202024-12-16%20063354.png)
 
 ---
 
@@ -506,6 +506,7 @@ For any queries or feedback, feel free to reach out:
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalgopalpoojary/)  
+
 
 
 
