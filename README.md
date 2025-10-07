@@ -432,7 +432,7 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Booking Status Breakdown: Display the distribution of completed, canceled, and pending bookings.</li>  
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20195004.png"  />
+    <img src="https://github.com/adyasha-jha/OLA-Power-BI-SQL-Analysis/blob/main/Screenshot%202024-12-15%20195004.png"  />
 </div>
 </ul>
 
@@ -441,7 +441,7 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Top 5 Vehicle Types by Ride Distance: Show the top 5 vehicle types based on ride distance.</li>  
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201113.png"  />
+    <img src="https://github.com/adyasha-jha/OLA-Power-BI-SQL-Analysis/blob/main/Screenshot%202024-12-15%20201113.png"  />
 </div>
 </ul>
 
@@ -452,7 +452,7 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Ride Distance Distribution Per Day: Display the distribution of ride distances on a daily basis.</li> 
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201137.png"  />
+    <img src="https://github.com/adyasha-jha/OLA-Power-BI-SQL-Analysis/blob/main/Screenshot%202024-12-15%20201137.png"  />
 </div> 
 </ul>
 
@@ -462,7 +462,7 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Cancelled Rides Reasons (Driver): Show the reasons behind canceled rides by drivers.</li>  
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201201.png"  />
+    <img src="https://github.com/adyasha-jha/OLA-Power-BI-SQL-Analysis/blob/main/Screenshot%202024-12-15%20201201.png"  />
 </div>
 </ul>
 
@@ -472,7 +472,7 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Customer Ratings: Display the distribution of ratings given by customers.</li>  
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201233.png"  />
+    <img src="https://github.com/adyasha-jha/OLA-Power-BI-SQL-Analysis/blob/main/Screenshot%202024-12-15%20201233.png"  />
 </div>
 </ul>
 </ol>
@@ -507,5 +507,6 @@ For any queries or feedback, feel free to reach out:
 
 - **Name**: Adyasha Jha
 - **Email**: adyashajha2003@gmail.com
+
 
 
